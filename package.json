@@ -1,6 +1,6 @@
 {
   "name": "energyscope",
-  "version": "5.8.3",
+  "version": "4.9.5",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
